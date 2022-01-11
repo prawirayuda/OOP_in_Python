@@ -1,2 +1,4 @@
-.__dict__)
-# print(hero2.__dict__)
+ print(Hero.__jumlah) error
+# print(sniper.getJumlah())
+
+# print(Hero.getJumlah())
